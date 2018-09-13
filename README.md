@@ -2,11 +2,11 @@
 
 A docker image for Kimai time tracking based on the [official php docker image](https://hub.docker.com/_/php/).
 
-This repository also contains a `docker-compose.yaml` configuration file for simple usage together with the [official mariadb image](https://hub.docker.com/_/mariadb/).
+This repository also contains a `docker-compose.yml` configuration file for simple usage together with the [official mariadb image](https://hub.docker.com/_/mariadb/).
 
 ## Supported tags and respective Dockerfile links
 
-* `1.3.1`, `1.1.0`, `stable`, `latest` [(Dockerfile)](https://github.com/RalfHerzog/docker-kimai/blob/master/Dockerfile)
+* `v1.3.1`, `v1.1.0`, `stable`, `latest` [(Dockerfile)](https://github.com/RalfHerzog/docker-kimai/blob/master/Dockerfile)
 
 ## Getting started
 
