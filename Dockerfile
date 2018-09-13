@@ -1,5 +1,5 @@
 FROM php:7-apache
-MAINTAINER Fabian Köster <mail@fabian-koester.com>
+MAINTAINER Ralf Herzog <ralf@rherzog.de>
 
 EXPOSE 80
 

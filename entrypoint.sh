@@ -6,6 +6,7 @@ if [ "${KIMAI_REMOVE_INSTALLATION}" == "1" ]
 then
   echo -n "=> Remove Kimai installation directory ... "
   rm -rf /var/www/html/installer
+  rm -rf /var/www/html/updater
   echo "done"
 fi
 
